@@ -1,6 +1,6 @@
 import Banner from 'components/Banner';
-import RepositoryList from 'components/RepositoryList';
+import ProjectDescription from 'components/ProjectDescription';
 import SlideIndicator from 'components/SlideIndicator';
 import Sticker from 'components/Sticker';
 
-export { Banner, RepositoryList, SlideIndicator, Sticker };
+export { Banner, ProjectDescription, SlideIndicator, Sticker };
