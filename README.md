@@ -1,46 +1,81 @@
-# Getting Started with Create React App
+# Farewell, 2022!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## GitHub Repositories in 2022
+| Month  | GitHub Repo  |
+|---|---|
+| 1  | react-ts-template, react-trello, react-crypto-tracker  |
+| 2  | carrot-market, nomflix-ts  |
+| 3  | nest-study, next-study  |
+| 4  | next-ts-study, cadro  |
+| 5  | chart-test  |
+| 6  | css-study  |
+| 7  | next-blog  |
+| 8  | d3-study, blind-clone  |
+| 9  | next-ts-template, my-voca  |
+| 10  | my-form-builder, my-color-palette, my-sticker, my-audio-player, my-reservation  |
+| 11  | metamask, nomad-coders-clone-coding, weekly-clone-coding, my-editor, my-dashboard  |
+| 12  | play-with-canvas, jest-study, advent-of-code-2022, algorithms  |
 
-## Available Scripts
+**TOTAL** : 30!
 
-In the project directory, you can run:
+## GitHub Contributions in 2022
+![contributions](https://user-images.githubusercontent.com/52883505/209747045-d25e4e3b-68a7-4e34-ab51-c5bd5d579b83.png)
 
-### `npm start`
+## My Goals in 2022
+### From January to June
+- [x] Learning NextJS, NestJS
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### From July to December
+- [x] 1 Day 1 Commit
+- [x] Weekly Clone Coding Challenge
+- [x] Studying Web Accessibility
+- [x] Studying Jest
+- [x] Solving Algorithms Problems
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## New things I learned in 2022
+- [x] TypeScript
+- [x] Next.JS
+- [x] Nest.JS
+- [x] D3.JS
 
-### `npm test`
+## Groups I joined in 2022
+- **JavaIsScript** - 🔛 Building a Roadmap
+- **UsePlease-UI** - 🎨 Studying Components
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Studies I participated in 2022
+- **Bichon** - 👔 Building Task Management App
+- **Cardro** - 📘 Studying TypeScript
+- **CSS-STUDY** - ✨ Studying CSS for Wonderful UI 
+- **Modern JavaScript Deep Dive** - 📖 Book Club!
+- **React Optimization** - ❓ How to optimize performance in ReactJS?
+- **D3.JS** - 📊 How to use D3.JS?
+- **NextJS Study** - ✨ Learning Various Web Skills
 
-### `npm run build`
+## Challenges I participated in 2022
+- [x] Nomad Coders - YouTube Clone
+- [x] Nomad Coders - Zoom Clone
+- [x] Nomad Coders - Carrot Market Clone
+- [x] Nomad Coders - TypeScript Challenge
+- [x] Advent of Code 2022
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Personal Challenges in 2022
+- [x] Daily Commit (Since August ~ )
+- [x] Weekly Clone Coding Challenge (Since September ~ )
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Toy Projects in 2022
+- [x] my-voca
+- [x] my-form-builder
+- [x] my-color-palette
+- [x] my-sticker
+- [x] my-audio-player
+- [x] my-reservation
+- [x] my-editor
+- [x] my-dashboard
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## My Goals in 2023!
+- Study Algorithms
+- Build VanillaJS Projects
+- Learn Three.JS
+- Study Web Accessibility
+- Document Weekly Clone Coding Challenges
+- Document Modern JavaScript Deep Dive
