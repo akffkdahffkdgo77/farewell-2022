@@ -8,6 +8,16 @@ import myDashboardImage from 'assets/my-dashboard.png';
 
 export const IMAGE = [myVocaImage, myFormBuilderImage, myColorPaletteImage, myStickerImage, myAudioPlayerImage, myEditorImage, myDashboardImage];
 
+export const GITHUB_LINKS = [
+    'https://github.com/namiein/my-voca',
+    'https://github.com/namiein/my-form-builder',
+    'https://github.com/namiein/my-color-palette',
+    'https://github.com/namiein/my-sticker',
+    'https://github.com/namiein/my-audio-player',
+    'https://github.com/namiein/my-editor',
+    'https://github.com/namiein/my-dashboard'
+];
+
 export const DATA = [
     {
         num: 1,

@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 
-import { IMAGE } from 'constant';
+import { GITHUB_LINKS, IMAGE } from 'constant';
 import { Banner, ProjectDescription, SlideIndicator, Sticker } from 'components';
 
 export default function Home() {
@@ -21,7 +21,9 @@ export default function Home() {
             <div className="relative h-full w-full flex items-center justify-center flex-col mt-10">
                 <div className="relative [height:calc(100vh_-_360px)]">
                     <Sticker index={index} />
-                    <img className="h-full object-cover" src={IMAGE[index]} alt="project" />
+                    <a href={GITHUB_LINKS[index]} target="_blank" rel="noreferrer noopener">
+                        <img className="h-full object-cover" src={IMAGE[index]} alt="project" />
+                    </a>
                 </div>
                 <SlideIndicator index={index} onClick={onClick} />
                 <ProjectDescription index={index} />
