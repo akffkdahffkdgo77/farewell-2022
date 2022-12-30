@@ -83,5 +83,6 @@
 ### Credits
 Made with ❤️ **Create-React-App** with **TypeScript**, **TailwindCSS**.  
 Code Convention with ❤️ **Prettier**.  
+Favicon by 👋 **Me**.  
+Images taken by 👋 **Me**.  
 Deployed with ❤️ **gh-pages**.  
-Favicon by 👋 **Me**
