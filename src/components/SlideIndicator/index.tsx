@@ -1,4 +1,6 @@
-export default function SlideIndicator({ index, onClick }: { index: number; onClick: (index: number) => void }) {
+import { ISlideIndicator } from 'components/SlideIndicator/types';
+
+export default function SlideIndicator({ index, onClick }: ISlideIndicator) {
     return (
         <div className="absolute bottom-0 flex items-center justify-center gap-[5px]">
             {Array.from({ length: 7 }).map((_, i) => (

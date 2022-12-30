@@ -1,6 +1,7 @@
 import { DATA } from 'constant';
+import { IProjectDescription } from 'components/ProjectDescription/types';
 
-export default function ProjectDescription({ index }: { index: number }) {
+export default function ProjectDescription({ index }: IProjectDescription) {
     return (
         <div className="p-5 text-white h-[100px] text-sm font-mono font-semibold flex flex-col justify-center items-center gap-2.5">
             <ul className="flex flex-wrap justify-center items-center gap-[5px] max-w-3xl">

@@ -1,4 +1,6 @@
-export default function Sticker({ index }: { index: number }) {
+import { ISticker } from 'components/Sticker/types';
+
+export default function Sticker({ index }: ISticker) {
     return (
         <>
             <div className="absolute -top-2.5 rounded-sm -left-[30px] border border-white -rotate-[20deg] w-[120px] h-10 bg-black"></div>
