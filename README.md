@@ -19,7 +19,7 @@
 **TOTAL** : 30!
 
 ## GitHub Contributions in 2022
-![contributions](https://user-images.githubusercontent.com/52883505/209747045-d25e4e3b-68a7-4e34-ab51-c5bd5d579b83.png)
+![contributions](https://user-images.githubusercontent.com/52883505/210068805-009f3fc2-fc74-4cad-8455-bcaa3151b925.png)
 
 ## My Goals in 2022
 ### From January to June
@@ -79,3 +79,9 @@
 - Study Web Accessibility
 - Document Weekly Clone Coding Challenges
 - Document Modern JavaScript Deep Dive
+
+### Credits
+Made with ❤️ **Create-React-App** with **TypeScript**, **TailwindCSS**.  
+Code Convention with ❤️ **Prettier**.  
+Deployed with ❤️ **gh-pages**.  
+Favicon by 👋 **Me**
