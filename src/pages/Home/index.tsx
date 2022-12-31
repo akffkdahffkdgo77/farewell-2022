@@ -1,19 +1,9 @@
-import { useEffect, useRef, useState } from 'react';
-
 import { GITHUB_LINKS, IMAGE } from 'constant';
 import { Banner, ProjectDescription, SlideIndicator, Sticker } from 'components';
+import useInterval from 'hooks/useInterval';
 
 export default function Home() {
-    const timerId = useRef<NodeJS.Timer>();
-    const [index, setIndex] = useState(0);
-
-    const onClick = (index: number) => setIndex(index);
-
-    useEffect(() => {
-        timerId.current = setInterval(() => setIndex((prev) => (prev === 6 ? 0 : prev + 1)), 5000);
-
-        return () => clearInterval(timerId.current);
-    }, []);
+    const [index, onClick] = useInterval();
 
     return (
         <div className="bg-black min-h-screen p-10">
