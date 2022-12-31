@@ -19,7 +19,7 @@
 **TOTAL** : 30!
 
 ## GitHub Contributions in 2022
-![contributions](https://user-images.githubusercontent.com/52883505/210068805-009f3fc2-fc74-4cad-8455-bcaa3151b925.png)
+![contributions](https://user-images.githubusercontent.com/52883505/210128441-2399942a-bf85-4515-8b07-2e376b85cd45.png)
 
 ## My Goals in 2022
 ### From January to June
